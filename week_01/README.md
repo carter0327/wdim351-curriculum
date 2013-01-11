@@ -10,6 +10,8 @@
 1. Write a paragraph below that explains to me what the video was about and what you got anything out of it. Be prepared to talk about it in Week 2.
 1. Push this change back up to your repo (`git push origin master`).
 
+Homework Response 
+
 I looked at the slideshow about how to stay current in the web design industry. So far in my academic career
  for web design, I haven't paid much atttention to outside sources for inspiration. I didn't even know they 
  really exisited. But after looking at this slide show I saw some awesome references that will definitely 
